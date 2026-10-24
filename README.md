@@ -1,6 +1,6 @@
 ## About
 
-Hi, I'm Dana. I build applicable technology solutions for various farming systems
+Hi, I'm Dana. I build applicable technology solutions for various farming systems. I turn raw farm data from sensors, field records and images into insights that help teams act earlier and make better decisions. I work across the whole pipeline: collecting and structuring data, building models, and delivering results that people actually use on the farm.
 
 **Focus areas**
 - Data engineering and database management
@@ -8,8 +8,7 @@ Hi, I'm Dana. I build applicable technology solutions for various farming system
 - Analytics for operational decision-making
 
 ## Career
-- **Data Scientist** — De Heus, Indonesia
-- **Data Scientist** — DELOS Aqua, Indonesia
+- **Senior Data Scientist** — DELOS Aqua, Indonesia
 - **MSc Biosystems Engineering** — Wageningen University & Research
 
 ## Tech Stack
