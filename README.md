@@ -1,4 +1,4 @@
-### About
+## About
 
 Hi, I'm Dana. 
 
@@ -10,11 +10,11 @@ My focus areas include:
 - Time-series forecasting for early warning systems
 - Computer vision for biological measurement
 
-### Career
+## Career
 - **Senior Data Scientist** — DELOS Aqua, Indonesia
 - **MSc Biosystems Engineering** — Wageningen University
 
-### Tech Stack
+## Tech Stack
 | Area | Tools |
 |---|---|
 | Languages | Python, SQL |
