@@ -9,7 +9,7 @@ Hi, I'm Dana. I build applicable technology solutions for various farming system
 
 ## Career
 - **Data Scientist** — De Heus, Indonesia
-- **Senior Data Scientist** — DELOS, Indonesia
+- **Data Scientist** — DELOS Aqua, Indonesia
 - **MSc Biosystems Engineering** — Wageningen University & Research
 
 ## Tech Stack
