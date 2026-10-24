@@ -1,11 +1,10 @@
 ## About
 
-Hi, I'm Dana. I build applicable technology solutions for various farming systems. I turn raw farm data from sensors, field records and images into insights that help teams act earlier and make better decisions. I work across the whole pipeline: collecting and structuring data, building models, and delivering results that people actually use on the farm.
-
-**Focus areas**
-- Data engineering and database management
-- AI for forecasting and computer vision
+Hi, I'm Dana. I build data and AI solutions for farming systems. My focus areas include:
+- Data engineering for sensor and field data
 - Analytics for operational decision-making
+- Time-series forecasting for early warning
+- Computer vision for biological measurement
 
 ## Career
 - **Senior Data Scientist** — DELOS Aqua, Indonesia
@@ -16,5 +15,5 @@ Hi, I'm Dana. I build applicable technology solutions for various farming system
 |---|---|
 | Languages | Python, SQL |
 | Data | Google BigQuery, Cloud Run, Cloud Storage |
-| ML / CompViz | PyTorch |
+| ML / Computer Vision | PyTorch |
 | Analytics | Google Colab, Looker Studio |
