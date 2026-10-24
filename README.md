@@ -1,6 +1,8 @@
 ## About
 
-Hi, I'm Dana. I build data and AI solutions for farming systems. My focus areas include:
+Hi, I'm Dana. I build data and AI solutions for farming systems. 
+
+My focus areas include:
 - Data engineering for sensor and field data
 - Analytics for operational decision-making
 - Time-series forecasting for early warning
