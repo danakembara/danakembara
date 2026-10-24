@@ -1,8 +1,6 @@
-**Data Scientist · AI for AgriTech**
+## About
 
-Hi, I'm Dana. I build data and AI solutions for farming systems.
-
-**Focus areas**
+Hi, I'm Dana. I build data and AI solutions for farming systems. Focus areas:
 - Data engineering and database management
 - Time-series prediction
 - Computer vision
