@@ -8,6 +8,7 @@ Hi, I'm Dana. I build applicable technology solutions for various farming system
 - Analytics for operational decision-making
 
 ## Career
+- **Data Scientist** — De Heus, Indonesia
 - **Senior Data Scientist** — DELOS, Indonesia
 - **MSc Biosystems Engineering** — Wageningen University & Research
 
