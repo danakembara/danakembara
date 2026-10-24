@@ -1,16 +1,26 @@
-## Hi there 👋
+**Data Scienctist & AI for Agritech**
 
-<!--
-**danakembara/danakembara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+I build data and AI systems for agritech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Focus areas**
+- Predictive modelling for production
+- Data quality, validation and anomaly detection
+- Computer vision for biological measurement
+- Data engineering for IoT and field data
+
+## Career
+
+- **Data Science Lead** — Delos Aqua, Indonesia
+- **MSc Biosystems Engineering** — Wageningen University & Research
+
+## Tech Stack
+
+| Area | Tools |
+|---|---|
+| Languages | Python, SQL |
+| Machine learning | XGBoost, SHAP |
+| Computer vision | RGB-D imaging |
+| Data & cloud | Google BigQuery, Cloud Run, Cloud Storage |
+| Analytics & BI | Looker Studio, Google Sheets |
