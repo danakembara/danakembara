@@ -1,4 +1,4 @@
-# About
+### About
 
 Hi, I'm Dana. I build data and AI solutions for farming systems. 
 
@@ -8,11 +8,11 @@ My focus areas include:
 - Time-series forecasting for early warning
 - Computer vision for biological measurement
 
-# Career
+### Career
 - **Senior Data Scientist** — DELOS Aqua, Indonesia
 - **MSc Biosystems Engineering** — Wageningen University & Research
 
-# Tech Stack
+### Tech Stack
 | Area | Tools |
 |---|---|
 | Languages | Python, SQL |
