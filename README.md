@@ -1,9 +1,10 @@
 ## About
 
-Hi, I'm Dana. I build data and AI solutions for farming systems. Focus areas:
+Hi, I'm Dana. I build applicable technology solutions for various farming systems
+
+**Focus areas**
 - Data engineering and database management
-- Time-series prediction
-- Computer vision
+- AI for forecasting and computer vision
 - Analytics for operational decision-making
 
 ## Career
@@ -15,5 +16,5 @@ Hi, I'm Dana. I build data and AI solutions for farming systems. Focus areas:
 |---|---|
 | Languages | Python, SQL |
 | Data | Google BigQuery, Cloud Run, Cloud Storage |
-| AI |
-| Analytics | Looker Studio |
+| ML / CompViz | PyTorch |
+| Analytics | Google Colab, Looker Studio |
