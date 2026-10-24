@@ -1,26 +1,21 @@
-**Data Scienctist & AI for Agritech**
+**Data Scientist · AI for AgriTech**
 
-## About
-
-I build data and AI systems for agritech.
+Hi, I'm Dana. I build data and AI solutions for farming systems.
 
 **Focus areas**
-- Predictive modelling for production
-- Data quality, validation and anomaly detection
-- Computer vision for biological measurement
-- Data engineering for IoT and field data
+- Data engineering and database management
+- Time-series prediction
+- Computer vision
+- Analytics for operational decision-making
 
 ## Career
-
-- **Data Science Lead** — Delos Aqua, Indonesia
+- **Senior Data Scientist** — DELOS, Indonesia
 - **MSc Biosystems Engineering** — Wageningen University & Research
 
 ## Tech Stack
-
 | Area | Tools |
 |---|---|
 | Languages | Python, SQL |
-| Machine learning | XGBoost, SHAP |
-| Computer vision | RGB-D imaging |
-| Data & cloud | Google BigQuery, Cloud Run, Cloud Storage |
-| Analytics & BI | Looker Studio, Google Sheets |
+| Data | Google BigQuery, Cloud Run, Cloud Storage |
+| AI |
+| Analytics | Looker Studio |
