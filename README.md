@@ -2,7 +2,7 @@
 
 Hi, I'm Dana. 
 
-I build data and AI solutions for farming systems, working across the whole pipeline: from data collection, visualization and analytics to training, evaluating and deploying AI models for smarter farming. 
+I build data and AI solutions for smart farming, working across the whole pipeline: from data collection, visualization and analytics to training, evaluating and deploying AI models.
 
 My focus areas include:
 - Data engineering for sensor and field data
