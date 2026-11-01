@@ -7,8 +7,9 @@ I build data and AI solutions for smart farming, working across the whole pipeli
 My focus areas include:
 - Data engineering for sensor and field data
 - Analytics for operational decision-making
-- Time-series forecasting for early warning systems
 - Computer vision for biological measurement
+- Time-series forecasting for early warning systems
+
 
 ## Career
 - **Senior Data Scientist** — DELOS Aqua, Indonesia
